@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Css/style.css";
+import "./Css/style22.css";
 
 const Weather = () => {
   const [city, setCity] = useState("Puneee");
